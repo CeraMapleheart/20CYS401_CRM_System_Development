@@ -42,6 +42,9 @@ The development follows a pipelined time-boxing (Agile-XP) approach, ensuring pa
 - Alerts and Notifications: Setup and configure alerts for various events
 - Database Backup and Recovery: Regular backups and recovery procedures
 
+## Threat Model
+![Threat Model](Threatmodelling.jpeg)
+
 ## Contributing
 Contributions are welcome. Please fork the repository and submit a pull request for review.
 
