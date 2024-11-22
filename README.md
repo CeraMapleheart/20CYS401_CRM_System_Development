@@ -20,6 +20,19 @@ This project is a Customer Relationship Management (CRM) system developed for De
 ## Development Model
 The development follows a pipelined time-boxing (Agile-XP) approach, ensuring parallel processing, iterative development, and efficient time management.
 
+## UML Diagrams
+### Class Diagram
+![Class Diagram](images/Class_Diagram.jpg)
+
+### Sequence Diagram
+![Sequence Diagram](images/Sequence_Diagram.jpg)
+
+### State Diagram
+![State Diagram](images/State_Diagram.jpg)
+
+### Usecase Diagram
+![Usecase Diagram](images/Use_Case_Diagram.jpg)
+
 ## Components and Features
 - Role-Based Access Control: Admin, Manager, Salesperson, Customer
 - Inventory Management: Track incoming/outgoing products, generate restock alerts
